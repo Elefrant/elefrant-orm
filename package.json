@@ -13,7 +13,8 @@
 		"url": "http://mistersanz.com"
 	}],
 	"engines": {
-		"node": ">=0.10.0"
+		"node": ">=0.10.0",
+		"elefrant": ">=0.2.x"
 	},
 	"scripts": {
 		"test": "node node_modules/grunt-cli/bin/grunt"

@@ -1,0 +1,48 @@
+{
+	"name": "elefrant-orm",
+	"version": "0.2.0",
+	"description": "ORM connections between waterline and Elefrant Framework.",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/Elefrant/elefrant-orm"
+	},
+	"maintainers": [{
+		"name": "Marcos Sanz Latorre",
+		"email": "marcos.sanz@13genius.com",
+		"url": "http://mistersanz.com"
+	}],
+	"engines": {
+		"node": ">=0.10.0"
+	},
+	"scripts": {
+		"test": "node node_modules/grunt-cli/bin/grunt"
+	},
+	"main": "index",
+	"keywords": [
+		"elefrant",
+		"elefrantio",
+		"elefrant-orm",
+		"orm",
+		"waterline",
+		"component"
+	],
+	"dependencies": {
+		"lodash": "~2.4.1",
+		"waterline": "~0.10.9",
+		"sails-disk": "~0.10.3"
+	},
+	"devDependencies": {
+		"grunt": "~0.4.0",
+		"grunt-cli": "~0.1.13",
+		"grunt-contrib-jshint": "~0.10.0",
+		"grunt-mocha-test": "~0.10.0",
+		"mocha": "~1.18.2",
+		"should": "~3.2.0"
+	},
+	"readmeFilename": "readme.md",
+	"bugs": {
+		"url": "https://github.com/Elefrant/elefrant-orm/issues"
+	},
+	"homepage": "https://github.com/Elefrant/elefrant-orm"
+}

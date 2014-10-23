@@ -1,6 +1,6 @@
 # Elefrant ORM
 
-[![wercker status](https://app.wercker.com/status/abf296cb1fad2ac7c4f47e7eb56784c4/s/master "wercker status")](https://app.wercker.com/project/bykey/abf296cb1fad2ac7c4f47e7eb56784c4)
+[![wercker status](https://app.wercker.com/status/ed958a0d0e57a3d11084695e9728b6b1/s/master "wercker status")](https://app.wercker.com/project/bykey/ed958a0d0e57a3d11084695e9728b6b1)
 
 ## Install
 

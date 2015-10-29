@@ -1,6 +1,6 @@
 {
 	"name": "elefrant-orm",
-	"version": "0.2.2",
+	"version": "0.2.3",
 	"description": "ORM connections between waterline and Elefrant Framework.",
 	"license": "MIT",
 	"repository": {
@@ -30,9 +30,9 @@
 		"component"
 	],
 	"dependencies": {
-		"lodash": "~2.4.1",
-		"sails-disk": "~0.10.3",
-		"waterline": "~0.10.9"
+		"lodash": ">=2.4.1",
+		"sails-disk": ">=0.10.3",
+		"waterline": ">=0.10.26"
 	},
 	"devDependencies": {
 		"grunt": "~0.4.0",
